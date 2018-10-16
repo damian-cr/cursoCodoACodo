@@ -1,10 +1,10 @@
 package Unidad4_PantallasGraficas;
 
-public class main {
+public class VentanaAlumno {
     
     public static void main(String[] args) {
        
-        VentanaAlumnos v1 = new VentanaAlumnos();
+        Alumnos v1 = new Alumnos();
 
     }
         
